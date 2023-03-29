@@ -1,0 +1,3 @@
+Dentro del archivo .ipynb, se fueron probando diferentes metricas como el uso de variables categóricas como de variables binarias. Además de incluír diferentes maneras gráficas en el análisis de la data. Esta información se fue configurando a lo largo de los días para tener una performance ad-hoc al caso y entregar lo requerido.
+En primera instancia se pensó en hacer un random forest pero al tener tantas variables este no convergía a una solución o se debía "jugar" mucho con la data para obtener un resultado al menos comparable.
+Estos modelos daban un recall de 0,2 y un accuracy de 0,4 por lo que fueron descartados de raíz.
